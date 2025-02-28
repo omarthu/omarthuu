@@ -1,0 +1,60 @@
+/* General Page Styling */
+body {
+    background-color: #f4f4f4;  /* Light gray background */
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Heading Styling */
+  h1 {
+    color: #0073e6; /* Blue color */
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph Styling */
+  p {
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #ffffff;
+    border-left: 5px solid #0073e6;
+  }
+  
+  /* Ordered List Styling */
+  ol {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  ol li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  /* Image Styling */
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Link Styling */
+  a {
+    color: #e63946;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
